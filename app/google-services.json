@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009446682203",
+    "project_id": "neoeum-59633",
+    "storage_bucket": "neoeum-59633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009446682203:android:961d082cd88668e0f6897e",
+        "android_client_info": {
+          "package_name": "com.yj.neoeum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009446682203-14aai7lqefrb3nc3b75p2lqj097ljacr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVS4HSs9lWzVkujyG-ux5Fv7Fz62vtDOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009446682203-14aai7lqefrb3nc3b75p2lqj097ljacr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
